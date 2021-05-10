@@ -21,13 +21,13 @@ let operation = readline.question();
 
 let output;
 if (operation === "1") {
-  output = number1 + number2;
+  output = Number(number1) + Number(number2);
 } else if (operation === "2") {
-  output = number1 - number2;
+  output = Number(number1) - Number(number2);
 } else if (operation === "3") {
-  output = number1 * number2;
+  output = Number(number1) * Number(number2);
 } else if (operation === "4") {
-  output = number1 / number2;
+  output = Number(number1) / Number(number2);
 } else {
   output = "No operator chosen";
 }
