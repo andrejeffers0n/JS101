@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to Calculator, your favorite calculator!",
+  "firstNumber": "What's the first number?",
+  "secondNumber": "What's the second number?",
+  "invalidInput": "Nah, that's an invalid input. Try again!",
+  "chooseOperation": "So whatchu tryna do?\n1) Add\n2) Subtract\n3) Multiply\n4) Divide",
+  "tryAgain": "Would you like to play again?\n1)Yes\n2)No",
+  "thankYou": "Thank you for choosing Calculator 3000!"
+}
